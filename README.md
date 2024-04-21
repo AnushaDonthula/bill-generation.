@@ -1,1 +1,2 @@
-# bill-generation.
+ mini project :bill generation
+ 
