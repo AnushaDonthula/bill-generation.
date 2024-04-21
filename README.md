@@ -1,2 +1,2 @@
- mini project :bill generation
+Mini project: Bill generation.
  
